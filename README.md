@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋  
+
+🔭 I’m currently working on AI(LLM).  
+
+🌱 I’m currently learning fine-tuning GLM3,Qwen,LlaMa,Stable Diffusion,etc.  
 
 <!--
 **jiangz1h0u/jiangz1h0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
